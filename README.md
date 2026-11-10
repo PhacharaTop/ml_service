@@ -49,6 +49,6 @@ Lab CPE312 ทำ Model as a Service ด้วย Flask + Docker
 
 ![](screenshots/predict-random.png)
 
-ใช้ค่าตัวอย่าง (Use sample values) ได้ 4.029 ตรงกับที่อาจารย์บอก
+ใช้ค่าตัวอย่าง (Use sample values) ได้ 4.029 
 
 ![](screenshots/predict-sample.png)
